@@ -10,3 +10,8 @@ p {
     text-decoration: none;
     font-family: 'Russo One';
 }
+
+.search {
+    display: flex;
+    justify-content: center;
+}
